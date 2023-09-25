@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 👋 Hi, I’m Julian Jerez.
+- 👋 Hi, I’m Julian.
 - 🌱 I’m currently learning Pandas and Numpy.
 - 💬 I’m open to collaborate on data analysis projects; volunteer or otherwise.
 - 📫 Let's connect on LinkedIn.
